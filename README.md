@@ -10,5 +10,5 @@
  [<img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' height='40'>](https://www.linkedin.com/in/david-henrique-2a9135238/) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' height='40'>](https://www.linkedin.com/in/david-henrique-2a9135238/) [<img src='https://cdn-icons-png.flaticon.com/512/1051/1051277.png' height='40'> ](https://www.linkedin.com/in/david-henrique-2a9135238/)
 [<img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' height='40'>](https://www.linkedin.com/in/david-henrique-2a9135238/) [<img src='https://www.coffeeclass.io/logos/chakra-ui.png' height='40'>](https://www.linkedin.com/in/david-henrique-2a9135238/) [<img src='https://avatars.githubusercontent.com/u/20658825?s=200&v=4' height='40'>](https://www.linkedin.com/in/david-henrique-2a9135238/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidshenrique&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidshenrique&show_icons=true&theme=radical) 
 
