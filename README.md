@@ -1,9 +1,10 @@
 [<img src='https://user-images.githubusercontent.com/98848860/183235625-bd6951f4-7d49-4ec1-bac6-5d99d10778a3.jpg' height='150'>](https://www.linkedin.com/in/david-henrique-2a9135238/)
 
 # Olá 👋, meu nome é David Henrique.
+
 ## Eu sou um Desenvolvedor Web Front-end!
 
-### Eu ❤ escrever em: JavaScript / React / HTML / CSS / Chakra-UI / Styled-components
+### Eu ❤ escrever em: JavaScript / React / HTML / CSS / Chakra UI / Styled-components
 
 <br />
 
